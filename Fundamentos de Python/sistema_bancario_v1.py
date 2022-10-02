@@ -85,3 +85,4 @@ while o != 5:
             sleep(1)
             break
 print("Volte Sempre!")
+
