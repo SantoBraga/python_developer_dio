@@ -5,33 +5,21 @@
 ## Escopo:
 
 - Modelo de Classes UML:
-- 
-- Depósito:  
-  - Positional only.
-  
-- Saque:  
-  - Keyword only.
-  
-- Extrato:  
-  - Positional and Keyword only.
 
-- Criar Usuário:  
-  - O programa deve armazenar os usuários em uma lista.
-  - Um usuário é composto por: data de nascimento, cpf e endereço.
-  - O endereço é uma string com o formato: logradouro, nro - bairro - cidade/sigla estado.
-  - Deve ser armazenado somente os números do CPF.
-  - Não podemos cadastrar dois usuários com o mesmo CPF.
+![modelo_de_classes_UML](https://github.com/bccalegari/python_developer_dio/blob/main/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos/modelo_de_classes_UML.png)
 
-- Criar Conta Corrente:  
-  - O programa deve armazenar as contas em uma lista.
-  - Uma conta é composta por: agência, número da conta e usuário.
-  - O número da conta é sequencial, iniciando em 1.
-  - O número da agência é fixo "0001".
-  - O usuário pode ter mais de uma conta, mas uma conta pertence somente a um usuário.
+## Features Novas:
+
+  - Conta física e jurídica.
+  - Conta poupança.
+  - Sistema de login.
+  - Validações na criação do usuário.
+  - Classe de sistema bancário.
+  - Classe de interface bancária.
 
 ## Arquivos:
 
-- O script está com o nome de *'sistema_bancario_v2.py'*
+- O script está com o nome de *'sistema_bancario_v3.py'*
 
 ## Ferramentas Utilizadas:
 
