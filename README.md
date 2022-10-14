@@ -15,8 +15,8 @@ Todos os projetos realizados para a formação de Python Developer da Digital In
 
 ## Arquivos:
 
-Todos os projetos possuem dois arquivos principais em suas pastas:
-  - Um aruqivo com o código *'.py'*
+Todos os projetos possuem dois arquivos **principais** em suas pastas:
+  - Um arquivo com o código *'.py'*
   - E um documento de especificação do projeto *'.md'*
 
 ## Ferramentas Utilizadas:
