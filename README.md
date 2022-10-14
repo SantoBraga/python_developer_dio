@@ -10,6 +10,9 @@ Todos os projetos realizados para a formação de Python Developer da Digital In
 - Estrutura de Dados:  
   - [Otimizando o Sistema Bancário com Funções em Python](https://github.com/bccalegari/python_developer_dio/tree/main/Estrutura%20de%20Dados)
 
+- Programação Orientada a Objetos:  
+  - [Modelando o Sistema Bancário em POO com Python](https://github.com/bccalegari/python_developer_dio/tree/main/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos)
+
 ## Arquivos:
 
 Todos os projetos possuem dois arquivos principais em suas pastas:
