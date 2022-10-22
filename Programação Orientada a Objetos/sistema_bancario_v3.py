@@ -520,7 +520,6 @@ class BankInterface:
                 o = input('Opção: ')
             match int(o):
                 case 1:
-                    pass
                     if client.c_account is None:
                         print("### Você ainda não possui uma conta corrente! ###\n")
                     else:
