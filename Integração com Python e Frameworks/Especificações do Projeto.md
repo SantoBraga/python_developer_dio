@@ -28,7 +28,9 @@
 
 ## Arquivos: 
 
-- O script está com o nome de *'sistema_bancario_v2.py'* 
+- [Integração com SQlite](https://github.com/bccalegari/python_developer_dio/blob/main/Integra%C3%A7%C3%A3o%20com%20Python%20e%20Frameworks/integracao_SQlite.py)
+
+- [Integração com Pymongo](https://github.com/bccalegari/python_developer_dio/blob/main/Integra%C3%A7%C3%A3o%20com%20Python%20e%20Frameworks/integracao_pymongo.py)
 
 ## Ferramentas Utilizadas: 
 
