@@ -13,10 +13,13 @@ Todos os projetos realizados para a formação de Python Developer da Digital In
 - Programação Orientada a Objetos:  
   - [Modelando o Sistema Bancário em POO com Python](https://github.com/bccalegari/python_developer_dio/tree/main/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos)
 
+- Integração com Python e Frameworks:  
+  - [Integração com Python e Frameworks](https://github.com/bccalegari/python_developer_dio/tree/main/Integra%C3%A7%C3%A3o%20com%20Python%20e%20Frameworks)
+
 ## Arquivos:
 
-Todos os projetos possuem dois arquivos **principais** em suas pastas:
-  - Um arquivo com o código *'.py'*
+Todos os projetos possuem dois ou mais arquivos **principais** em suas pastas:
+  - Um ou mais arquivo(s) com o código(s) *'.py'*
   - E um documento de especificação do projeto *'.md'*
 
 ## Ferramentas Utilizadas:
