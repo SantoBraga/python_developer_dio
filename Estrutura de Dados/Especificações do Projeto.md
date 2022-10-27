@@ -1,31 +1,22 @@
-# Otimizando o Sistema Bancário com Funções em Python
+# Integrando Python com SQLite e MongoDB e Criando uma API com Flask no Ambiente COLAB
 
 - Separar as funções existentes de saque, depósito e extrato em funções. Criar duas novas funções: cadastrar usuário (cliente) e cadastrar conta bancária.
 
-## Escopo:
+## Integrando Python com SQLite e MongoDB:
 
-- Depósito:  
-  - Positional only.
+- Implementando um Banco de Dados Relacional com SQLAlchemy:  
+  - Implementar uma aplicação de integração com SQLite com base em um esquema relacional disponibilizado. Sendo assim, utilize o esquema dentro do contexto de cliente e conta para criar as classes de sua API. Essas classes irão representar as tabelas do banco de dados relacional dentro da aplicação.
+  - s
+  - Entregável:
+    - Aplicação com a definição do esquema por meio das classes usando SQLAlchemy
+    - Inserção de um conjunto de dados mínimo para manipulação das informações
+    - Execução de métodos de recuperação de dados via SQLAlchemy
+ 
   
-- Saque:  
+- Implementando um Banco de Dados NoSQL com Pymongo:  
   - Keyword only.
   
-- Extrato:  
-  - Positional and Keyword only.
 
-- Criar Usuário:  
-  - O programa deve armazenar os usuários em uma lista.
-  - Um usuário é composto por: data de nascimento, cpf e endereço.
-  - O endereço é uma string com o formato: logradouro, nro - bairro - cidade/sigla estado.
-  - Deve ser armazenado somente os números do CPF.
-  - Não podemos cadastrar dois usuários com o mesmo CPF.
-
-- Criar Conta Corrente:  
-  - O programa deve armazenar as contas em uma lista.
-  - Uma conta é composta por: agência, número da conta e usuário.
-  - O número da conta é sequencial, iniciando em 1.
-  - O número da agência é fixo "0001".
-  - O usuário pode ter mais de uma conta, mas uma conta pertence somente a um usuário.
 
 ## Arquivos:
 
