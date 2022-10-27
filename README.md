@@ -14,7 +14,7 @@ Todos os projetos realizados para a formação de Python Developer da Digital In
   - [Modelando o Sistema Bancário em POO com Python](https://github.com/bccalegari/python_developer_dio/tree/main/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos)
 
 - Integração com Python e Frameworks:  
-  - [Integração com Python e Frameworks](https://github.com/bccalegari/python_developer_dio/tree/main/Integra%C3%A7%C3%A3o%20com%20Python%20e%20Frameworks)
+  - [Integrando Python com SQLite e MongoDB e Criando uma API com Flask no Ambiente COLAB](https://github.com/bccalegari/python_developer_dio/tree/main/Integra%C3%A7%C3%A3o%20com%20Python%20e%20Frameworks)
 
 ## Arquivos:
 
