@@ -46,4 +46,8 @@
 ## Ferramentas Utilizadas: 
 
 - Python 3.10.4
+  - Frameworks:
+    - SQLite 
+    - Pymongo
+    - FASTAPI
 - MongoDB Atlas 6.0
