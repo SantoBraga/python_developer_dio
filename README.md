@@ -28,4 +28,3 @@ Todos os projetos possuem dois ou mais arquivos **principais** em suas pastas:
 ## Ferramentas Utilizadas:
 
 - Python 3.10.4
-https://github.com/bccalegari/python_developer_dio/tree/main/Tratamento%20de%20Dados
