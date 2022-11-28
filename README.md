@@ -15,6 +15,9 @@ Todos os projetos realizados para a formação de Python Developer da Digital In
 
 - Integração com Python e Frameworks:  
   - [Integrando Python com SQLite e MongoDB e Criando uma API com Flask no Ambiente COLAB](https://github.com/bccalegari/python_developer_dio/tree/main/Integra%C3%A7%C3%A3o%20com%20Python%20e%20Frameworks)
+  
+- Tratamento de Dados:  
+  - [Análise de Dados com Python e Pandas e Descomplicando a criação de pacotes de processamento de imagens em Python](https://github.com/bccalegari/python_developer_dio/tree/main/Tratamento%20de%20Dados)
 
 ## Arquivos:
 
@@ -25,3 +28,4 @@ Todos os projetos possuem dois ou mais arquivos **principais** em suas pastas:
 ## Ferramentas Utilizadas:
 
 - Python 3.10.4
+https://github.com/bccalegari/python_developer_dio/tree/main/Tratamento%20de%20Dados
