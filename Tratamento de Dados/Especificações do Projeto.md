@@ -24,9 +24,9 @@
 
 ## Arquivos: 
 
-- [Análise de Dados com Python e Pandas - Jupyter Notebook](https://github.com/bccalegari/python_developer_dio/blob/main/Integra%C3%A7%C3%A3o%20com%20Python%20e%20Frameworks/integracao_SQlite.py)
+- [Análise de Dados com Python e Pandas - Jupyter Notebook](https://github.com/bccalegari/python_developer_dio/blob/main/Tratamento%20de%20Dados/analise_dados_python_pandas.ipynb)
 
-- [Análise de Dados com Python e Pandas - Dataset.csv](https://github.com/bccalegari/python_developer_dio/blob/main/Integra%C3%A7%C3%A3o%20com%20Python%20e%20Frameworks/integracao_pymongo.py)
+- [Análise de Dados com Python e Pandas - Dataset.csv](https://github.com/bccalegari/python_developer_dio/blob/main/Tratamento%20de%20Dados/unicorns.csv)
 
 - [xxx](xxx)
 
