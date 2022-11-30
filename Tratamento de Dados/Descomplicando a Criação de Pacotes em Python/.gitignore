@@ -11,9 +11,12 @@ __pycache__/
 build/
 develop-eggs/
 dist/
+.tar.gz
+.whl
 downloads/
 eggs/
 .eggs/
+dreamFilter.egg-info/
 lib/
 lib64/
 parts/
