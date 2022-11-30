@@ -59,7 +59,7 @@ print("\t - Done.")
 ```
 
 ## Author
-Bruno Calegari
+Bruno Calegari 
 
 ## License
     MIT License
