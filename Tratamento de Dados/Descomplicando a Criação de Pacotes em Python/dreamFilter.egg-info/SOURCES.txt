@@ -1,0 +1,6 @@
+setup.py
+dreamFilter.egg-info/PKG-INFO
+dreamFilter.egg-info/SOURCES.txt
+dreamFilter.egg-info/dependency_links.txt
+dreamFilter.egg-info/requires.txt
+dreamFilter.egg-info/top_level.txt
