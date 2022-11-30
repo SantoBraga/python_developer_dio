@@ -2,11 +2,4 @@
 /*
 
 # Whitelist some files
-!.gitignore
-!example/*
-!__init__.py
-!filter.py
-!filter.py
-!requirements.txt
-!setup.py
-!tools.py
+
