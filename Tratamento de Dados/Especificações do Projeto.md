@@ -1,4 +1,4 @@
-# Análise de Dados com Python e Pandas e Descomplicando a criação de pacotes de processamento de imagens em Python
+# Análise de Dados com Python e Pandas e Descomplicando a Criação de Pacotes em Python
 
 ## Análise de Dados com Python e Pandas: 
 
@@ -13,7 +13,7 @@
 - [Fonte - Kaggle](https://www.kaggle.com/datasets/thedevastator/startups-valued-at-1-billion-or-more?resource=download)
 
 
-## Descomplicando a criação de pacotes de processamento de imagens em Python: 
+## Descomplicando a Criação de Pacotes em Python: 
 
 - xxx: 
 
