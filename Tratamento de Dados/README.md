@@ -15,11 +15,14 @@
 
 ## Descomplicando a Criação de Pacotes em Python: 
 
-- xxx: 
+- dreamFilter, pacote simples divido em dois módulos: 
 
-  - xxx.
-
-    - xxx.
+  - filter:
+    - Combinar uma ou duas imagens, aplicando um filtro.
+  
+  - tools:
+    - Abrir imagem.
+    - Comparar se duas imagens são iguais.
 
 
 ## Arquivos: 
@@ -28,7 +31,7 @@
 
 - [Análise de Dados com Python e Pandas - Dataset.csv](https://github.com/bccalegari/python_developer_dio/blob/main/Tratamento%20de%20Dados/unicorns.csv)
 
-- [xxx](xxx)
+- [Descomplicando a Criação de Pacotes em Python](https://github.com/bccalegari/python_developer_dio/tree/main/Tratamento%20de%20Dados/Descomplicando%20a%20Cria%C3%A7%C3%A3o%20de%20Pacotes%20em%20Python)
 
 ## Ferramentas Utilizadas: 
 
@@ -36,4 +39,9 @@
   - Frameworks:
     - Pandas 
     - Matplotlib
+    - Numpy
+    - Pillow
+    - Setuptools
+    - Twine
 - COLAB
+- Pypi
