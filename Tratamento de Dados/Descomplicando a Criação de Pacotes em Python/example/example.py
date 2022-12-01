@@ -22,11 +22,11 @@ print("\t- Different") if tools.equal(img1, img1) is False else print("\t- Equal
 # 1
 
 print("\n# Filtering first image by second:\n")
-filter.dream_filter(img1, img2)
+filter.dream_filter(img1, img2, 'filtered_img1+2')
 print("\t- Done.")
 
 # 2
 
 print("\n# Filtering the first image with itself:\n")
-filter.dream_filter(img1, img1)
+filter.dream_filter(img1, img1, 'filtered_img1+1')
 print("\t - Done.")

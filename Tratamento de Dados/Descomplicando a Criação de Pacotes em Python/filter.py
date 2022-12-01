@@ -3,12 +3,14 @@ from PIL import Image, ImageChops
 from dreamFilter import tools
 
 
-def dream_filter(img1, img2):
+def dream_filter(img1, img2, final_img_name):
     """
+    :param final_img_name: str
     :return: An :py:class:`~PIL.Image.Image` object.
 
     applies the dream filter to an image
     """
+
     r = randrange(0, 266)
     g = randrange(0, 266)
     b = randrange(0, 266)
@@ -34,4 +36,5 @@ def dream_filter(img1, img2):
         final_mask = final_mask.resize((1920, 1080))
         final_image = Image.blend(final_image, final_mask, 0.4)
         final_image.rotate(180)
+    final_image.save(f'{final_img_name}.jpg')
     final_image.show()
