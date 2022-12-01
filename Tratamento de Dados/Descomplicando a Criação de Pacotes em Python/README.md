@@ -6,7 +6,7 @@ The package dreamFilter is used to:
 
 - Filter:
   - Apply the dream filter in one or two images
-
+ 
 
 - Compare:
   - Compare if two images are equal
