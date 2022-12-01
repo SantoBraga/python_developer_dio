@@ -10,7 +10,7 @@
     - Essas startups pertencem a que tipo de segmento? 
     - Quem são os investidores dessas startups?
 
-- [Fonte - Kaggle](https://www.kaggle.com/datasets/thedevastator/startups-valued-at-1-billion-or-more?resource=download)
+- [Fonte - Kaggle](https://www.kaggle.com/datasets/thedevastator/startups-valued-at-1-billion-or-more?resource=download) 
 
 
 ## Descomplicando a Criação de Pacotes em Python: 
