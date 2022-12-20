@@ -20,6 +20,9 @@ Todos os projetos realizados para a formação de Python Developer da Digital In
   - [Análise de Dados com Python e Pandas e Descomplicando a Criação de 
 Pacotes em Python](https://github.com/bccalegari/python_developer_dio/tree/main/Tratamento%20de%20Dados)
 
+- Consumindo a API do Twitter com Python:  
+  - [Consumindo a API do Twitter com Python - dio-app-twitter](https://github.com/bccalegari/python_developer_dio/tree/main/Praticando%20Desenvolvimento%20Web%20Com%20Python/dio-app-twitter)
+
 ## Arquivos:
 
 Todos os projetos possuem dois ou mais arquivos **principais** em suas pastas:
