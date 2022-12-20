@@ -2,7 +2,7 @@
 
 ## Consumindo a API do Twitter com Python: 
 
-- API que consome a API REST do Twitter. 
+- API que consome a API REST do Twitter
 
   - Trends:
     - Retorna 50 trending topics em ordem decrescente do Brasil.
