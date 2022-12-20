@@ -1,6 +1,6 @@
-# Integrando Python com SQLite e MongoDB e Criando uma API com Flask no Ambiente COLAB 
+# Integrando Python com SQLAlchemy e MongoDB e Criando uma API com Flask no Ambiente COLAB 
 
-## Integrando Python com SQLite e MongoDB: 
+## Integrando Python com SQLAlchemy e MongoDB: 
 
 - Implementando um Banco de Dados Relacional com SQLAlchemy:  
 
@@ -47,7 +47,7 @@
 
 - Python 3.10.4
   - Frameworks:
-    - SQLite 
+    - SQLAlchemy 
     - Pymongo
     - FASTAPI
 - MongoDB Atlas 6.0
