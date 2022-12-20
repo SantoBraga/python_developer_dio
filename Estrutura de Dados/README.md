@@ -5,7 +5,7 @@
 ## Escopo:
 
 - Depósito:  
-  - Positional only.
+  - Positional only. 
   
 - Saque:  
   - Keyword only.
