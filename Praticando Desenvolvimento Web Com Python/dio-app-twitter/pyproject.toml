@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "dio-app-twitter"
+version = "0.1.0"
+description = ""
+authors = ["bccalegari <brunocostacallegari@gmail.com>"]
+readme = "README.md"
+packages = [{include = "dio_app_twitter"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+tweepy = "^4.12.1"
+pymongo = "^4.3.3"
+fastapi = "^0.88.0"
+uvicorn = {extras = ["standard"], version = "^0.20.0"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
