@@ -3,7 +3,7 @@
 - Objetivo Geral: Criar um sistema bancário com as operações: sacar, depositar e visualizar extrato.
 
 ## Escopo:
-
+ 
 - Depósito:  
   - Deve ser possível depositar valores positivos para a minha conta bancária.
   - Todos os depósitos devem ser armazenados em uma variável e exibidos na operação de extrato.
