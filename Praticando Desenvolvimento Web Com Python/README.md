@@ -2,19 +2,15 @@
 
 ## Consumindo a API do Twitter com Python: 
 
-- dreamFilter, pacote simples divido em dois módulos: 
+- API que consome a API REST do Twitter. 
 
-  - filter:
-    - Combinar uma ou duas imagens, aplicando um filtro.
-  
-  - tools:
-    - Abrir imagem.
-    - Comparar se duas imagens são iguais.
+  - Trends:
+    - Retorna 50 trending topics em ordem decrescente do Brasil.
 
 
 ## Arquivos: 
 
-- [Consumindo a API do Twitter com Python - dio-app-twitter](https://github.com/bccalegari/python_developer_dio/blob/main/Tratamento%20de%20Dados/analise_dados_python_pandas.ipynb)
+- [Consumindo a API do Twitter com Python - dio-app-twitter](https://github.com/bccalegari/python_developer_dio/tree/main/Praticando%20Desenvolvimento%20Web%20Com%20Python/dio-app-twitter)
 
 ## Ferramentas Utilizadas: 
 
@@ -26,3 +22,4 @@
     - pymongo
     - fastapi
     - uvicorn
+    - poetry
