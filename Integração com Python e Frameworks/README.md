@@ -6,7 +6,7 @@
 
   - Implementar uma aplicação de integração com SQLite com base em um esquema relacional disponibilizado. Sendo assim, utilize o esquema dentro do contexto de cliente e conta para criar as classes de sua API. Essas classes irão representar as tabelas do banco de dados relacional dentro da aplicação. 
   
-   ![Esquema Relacional](https://github.com/bccalegari/python_developer_dio/blob/main/Integra%C3%A7%C3%A3o%20com%20Python%20e%20Frameworks/sqlite_schema.png)
+   ![Esquema Relacional](https://github.com/bccalegari/python_developer_dio/blob/main/Integra%C3%A7%C3%A3o%20com%20Python%20e%20Frameworks/SQLAlchemy_schema.png)
    
   - Entregáveis: 
     - Aplicação com a definição do esquema por meio das classes usando SQLAlchemy 
@@ -37,7 +37,7 @@
 
 ## Arquivos: 
 
-- [Integração com SQlite](https://github.com/bccalegari/python_developer_dio/blob/main/Integra%C3%A7%C3%A3o%20com%20Python%20e%20Frameworks/integracao_SQlite.py)
+- [Integração com SQLAlchemy](https://github.com/bccalegari/python_developer_dio/blob/main/Integra%C3%A7%C3%A3o%20com%20Python%20e%20Frameworks/integracao_SQlite.py)
 
 - [Integração com Pymongo](https://github.com/bccalegari/python_developer_dio/blob/main/Integra%C3%A7%C3%A3o%20com%20Python%20e%20Frameworks/integracao_pymongo.py)
 
