@@ -23,4 +23,4 @@
 
 ## Ferramentas Utilizadas:
 
-- Python 3.10.4
+- Python 3.10.4 
