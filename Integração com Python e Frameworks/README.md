@@ -1,4 +1,4 @@
-# Integrando Python com SQLAlchemy e MongoDB e Criando uma API com Flask no Ambiente COLAB 
+# Integrando Python com SQLAlchemy e MongoDB e Criando uma API com FastAPI no Ambiente COLAB 
 
 ## Integrando Python com SQLAlchemy e MongoDB: 
 
@@ -26,7 +26,7 @@
     - Escreve instruções de recuperação de informações com base nos pares de chave e valor como feito em aula
 
 
-## Criando uma API com Flask no Ambiente COLAB: 
+## Criando uma API com FastAPI no Ambiente COLAB: 
 
 - Integrando um arquivo JSON para um servidor FASTAPI: 
 
@@ -49,5 +49,5 @@
   - Frameworks:
     - SQLAlchemy 
     - Pymongo
-    - FASTAPI
+    - FastAPI
 - MongoDB Atlas 6.0
