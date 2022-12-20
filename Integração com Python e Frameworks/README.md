@@ -18,7 +18,7 @@
 
   - Você irá implementar um banco NoSQL com mongodb para fornecer uma visão agregada do modelo relacional. Sendo assim, as informações de cliente e contas existentes estão contidas dentro de documentos de acordo com cliente.
 
-  - Execute as operações:
+  - Execute as operações: 
 
     - Conecte ao mongo atlas e crie um banco de dados
     - Defina uma coleção bank para criar os documetos de clientes
